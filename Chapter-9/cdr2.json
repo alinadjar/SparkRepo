@@ -1,0 +1,34 @@
+[
+  {
+    "OriginatingNum": "797308107",
+    "TerminatingNum": "797131221",
+    "Origin": "London",
+    "Dest": "Birmingham",
+    "DateTime": "02/11/2016",
+    "CallCharge": "549"
+  },
+  {
+    "OriginatingNum": "777121117",
+    "TerminatingNum": "777440392",
+    "Origin": "Manchester",
+    "Dest": "London",
+    "DateTime": "05/02/2016",
+    "CallCharge": "2645"
+  },
+  {
+    "OriginatingNum": "797003202",
+    "TerminatingNum": "784243404",
+    "Origin": "Victoria",
+    "Dest": "Manchester",
+    "DateTime": "01/12/2016",
+    "CallCharge": "1233"
+  },
+  {
+    "OriginatingNum": "777557705",
+    "TerminatingNum": "798420467",
+    "Origin": "Leeds",
+    "Dest": "Scotland",
+    "DateTime": "07/11/2016",
+    "CallCharge": "3142"
+  }
+]
